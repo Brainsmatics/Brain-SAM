@@ -46,7 +46,7 @@ The following datasets are used in this study:
 - Brain Dataset: Mouse Brain Contour, Segmentation contours for mouse brain.
 - Neuron Dataset: Linear neuronal structures.
 - Lectin2d, Lectin3d, Tek Datasets: Tubular vascular data and mesh-like structures.
-These datasets and pretrained checkpoint model are publicly available and can be downloaded from [google drive]("https://drive.google.com/drive/folders/1MnWVS8i4pzO781JeqMkdtT8X1q9-GQ9B?usp=drive_link").
+These datasets and pretrained checkpoint model are publicly available and can be downloaded from [google drive](https://drive.google.com/drive/folders/1MnWVS8i4pzO781JeqMkdtT8X1q9-GQ9B?usp=drive_link).
 
 ## Results
 The experimental results demonstrate that Brain-SAM outperforms several state-of-the-art segmentation models, including U-Net, Deeplab v3+, ResUNet, UNet++, and AutoSAM. Key metrics used for evaluation include IoU, Dice, F1-score, and Accuracy. Detailed results are provided in the Experiments section.
